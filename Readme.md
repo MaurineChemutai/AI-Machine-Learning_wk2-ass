@@ -39,7 +39,7 @@ The following visual insights were generated:
 ## 📈 Visualizations
 
 ### 1️⃣ Top 10 CO₂ Emitting Countries
-![Top 10 CO₂ Emitting Countries](images/Top_10 _CO₂-emitting_countries.png)
+![Top 10 CO₂ Emitting Countries](images/Top_10_CO₂_emitting_countries.png)
 
 ### 2️⃣ CO₂ Emission Trend for Selected Country
 ![Population vs CO₂ Emissions](images/Population_vs_CO2_Emmission.png)
