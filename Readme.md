@@ -36,7 +36,6 @@ Both models were trained using the dataset `CO2 emission by countries.csv`.
 
 ## 📈 Visualizations
 The following visual insights were generated:
-## 📈 Visualizations
 
 ### 1️⃣ Top 10 CO₂ Emitting Countries
 ![Top 10 CO₂ Emitting Countries](images/Top_10_CO₂_emitting_countries.png)
